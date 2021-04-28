@@ -1,7 +1,7 @@
 Files to Convert a Märklin BR 128 to 21MTC and update the LED lights
 ===================================
 
-https://www.youtube.com/watch?v=hZECGGULSRw
+[![Märklin BR 128 Conversion](https://img.youtube.com/vi/hZECGGULSRw/maxresdefault.jpg)](https://youtu.be/hZECGGULSRw)
 
 ## Needed for conversion
 
